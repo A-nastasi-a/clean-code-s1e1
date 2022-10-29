@@ -179,3 +179,6 @@ ul li input[type=text] {
 .edit-mode label {
     display: none;
 }
+
+
+/* Devide selectors on different lines, but vsc doesn't thing that tis is changes */
