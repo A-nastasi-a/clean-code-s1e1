@@ -6,28 +6,28 @@ body {
     font-family: Lato, sans-serif;
 }
 
-.eisenhower-matrix {
+.eisenhower {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
 
-.eisenhower-matrix img {
+.eisenhower img {
     width: 100%;
 }
 
-.eisenhower-matrix .more_inf {
+.eisenhower .more_inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-    .eisenhower-matrix {
+    .eisenhower {
         text-align: center;
     }
 }
 
-.centered-main-page-element {
+.centering-elements {
     display: block;
     width: 500px;
     margin: 0 auto 0;
